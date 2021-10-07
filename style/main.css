@@ -1,0 +1,60 @@
+.permbajtja{
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.permbajtja h1{
+    font-weight: 300;
+}
+.permbajtja p{
+    color: #6c757d!important;
+}
+.album{
+    position: relative;
+    top: 100px;
+}
+.cards{
+    padding-top: 3%;
+}
+.card{
+    width: 100px;
+}
+.thumbi{
+    position: relative;
+    width: 40px;
+    height: 250px;
+    left: -12px;
+}
+.spani{
+    position: relative;
+    float: right;
+    color: #6c757d!important;
+}
+.fundi{
+    background-color: white;
+    width: 100%;
+    height: 10vh;
+}
+footer{
+    position: relative;
+    top: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 3rem;
+}
+.teksti-the-end{
+    color: #6c757d;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+.majt-posht a{
+    text-decoration: none;
+}
+.byebye{
+    text-decoration: none;
+}
